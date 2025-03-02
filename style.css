@@ -16,7 +16,7 @@ img {
 
 /* The hero section styling- use your OWN Hero Image URL here */
 .hero {
-    background-image: url(https://www.google.com/imgres?q=ice%20background&imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fthumbnails%2F042%2F194%2F936%2Fsmall%2Fai-generated-polar-ice-nature-background-free-photo.jpg&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Ffree-photos%2Farctic-background&docid=MXAk8k1cIit79M&tbnid=v-IiTY6iGAEKDM&vet=12ahUKEwjKkvHVvOyLAxWYS2wGHVgJAV4QM3oECE4QAA..i&w=357&h=200&hcb=2&ved=2ahUKEwjKkvHVvOyLAxWYS2wGHVgJAV4QM3oECE4QAA);
+    background-image: url('https://i2.pickpik.com/photos/851/323/731/snow-new-zealand-winter-powder-snow-preview.jpg');
     height: 25vh;
     background-size: cover;
     background-position: center;
